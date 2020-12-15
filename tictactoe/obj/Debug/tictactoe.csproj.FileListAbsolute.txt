@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\User\RiderProjects\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\User\RiderProjects\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\User\RiderProjects\tictactoe\tictactoe\obj\Debug\tictactoe.Form2.resources
